@@ -13,7 +13,7 @@ footer{
 }
 
 .car-img{
-    max-height: 35em !important;
+    max-height: 40em !important;
 }
 
 .carousel-caption{
@@ -52,4 +52,16 @@ footer{
     margin-bottom: 10% !important;
     margin-left: 10% !important;
     margin-right: 10% !important;
+    margin-top: 5% !important;
 }
+
+.links {
+    text-align: center;
+    padding: 1em;
+    color: rgb(0, 0, 0);
+}
+
+.mapa{
+    margin-top: 5%!important;
+}
+
